@@ -1,4 +1,4 @@
-# TreeHacks 2019 Project
+# ClassifAI
 Applies Classifier Learning Techniques On Twitter Data To Predict Mental Health Risk
 
 ## To Run Algorithms:
